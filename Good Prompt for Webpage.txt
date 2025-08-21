@@ -1,0 +1,88 @@
+Build me a SaaS landing page called "AI ka Shaktimaan – World’s Most Powerful AIs".
+The design should be dark futuristic with glowing neon gradients (green, purple, yellow), e
+smooth animations, and professional layout.
+
+Sections to Include:
+
+Hero Section
+
+
+Title: "AI ka Shaktimaan – World’s Most Powerful AI"
+
+Subheadline: "Many Premium AIs. One Subscription. Infinite Power
+
+CTA: "Get Started Now" (glowing button)
+
+Futuristic hero image/interface mockup
+
+Key Features (Cards)
+
+Compare all AIs at once
+
+Prompt Boost (auto-optimize prompts)
+
+Generate images & transcribe audio
+
+Custom workflows with system instructions
+
+Efficiency Section
+
+Headline: "One Window. Six Perspectives."
+
+Subheadline: "Run prompts across GPT, Claude, Gemini & more instantly."
+
+Pricing Section
+
+Title: "6 AIs for Half the Price of One"
+
+Monthly: ₹9
+
+Yearly: ₹99
+
+Simple comparison table
+
+Model Highlights
+
+Showcase GPT, Claude, Gemini, Perplexity, Grok, etc. with strengths
+
+Demo Section
+
+Video thumbnail / demo preview
+
+Text: "See how AI ka Shaktimaan delivers what others miss."
+
+FAQ Section
+
+Accordion with ~5–6 key FAQs (pricing, usage, unlimited messages, updates, etc.)
+
+Final CTA
+
+Headline: "Ready to Unleash the Power of AI ka Shaktimaan?"
+
+CTA button: "Get Started Now"
+
+Footer
+
+Logo, Terms, Privacy, Contact, © AI ka Shaktimaan
+
+⚡ Style Notes:
+
+Dark theme + neon glow
+
+Rounded cards with soft shadows
+
+Clean sans-serif font
+
+Smooth hover animations
+
+
+Use the below key and get the free models (Please use your own key)
+
+Openrouter API - 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
+Gemini Key - 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
+
+
+I also want you to also add the functionality where I can start the chat and do the same from different models altogether so on CTA 
+I can send and get the message, use keys provided to use the free models from openrouter (Deepseek, gemma, gpt3.5, Mistral) and gemini 2.0 ( 2 gemini models) from gemini key.
+And I also want when user click get started route to then new page and look like chatgpt 
+
